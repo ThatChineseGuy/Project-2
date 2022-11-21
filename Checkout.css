@@ -6,3 +6,6 @@
     font-family: 'Brush Script MT', cursive !important;
     min-height: 30vh;
 }
+label{
+    margin: 10px;
+}
