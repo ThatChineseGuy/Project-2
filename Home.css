@@ -1,0 +1,17 @@
+.hero{
+    background-image: url(picture/bubblebg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.high{
+    min-height: 75vh;
+}
+.head{
+    font-size: 55px;
+}
+.low{
+    min-height: 20px;
+}
+*{
+    font-family: 'Courier New', Courier, monospace;
+}

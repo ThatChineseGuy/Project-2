@@ -1,0 +1,27 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+.menu{
+    font-size: 60px;
+    font-family: 'Brush Script MT', cursive !important;
+}
+.dessert{
+    background-image: url(picture/dessert.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 60px;
+    font-family: 'Brush Script MT', cursive !important;
+}
+.Milk{
+    background-color: #42AFF9;
+    background-size: cover;
+    font-size: 60px;
+    font-family: 'Brush Script MT', cursive !important;
+}
+.tea{
+    background-image: url(picture/tea.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 60px;
+    font-family: 'Brush Script MT', cursive !important;
+}
